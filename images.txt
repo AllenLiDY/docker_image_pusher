@@ -1,2 +1,10 @@
 adguard/adguardhome:latest
 jonnyan404/verysync:latest
+boredazfcuk/icloudpd:latest
+hectorqin/reader:latest
+hslr/sun-panel:latest
+jlesage/nginx-proxy-manager:latest
+linuxserver/qbittorrent:latest
+nyanmisaka/jellyfin:latest
+vaultwarden/server:latest
+windycloud/lanraragi_cn:latest
